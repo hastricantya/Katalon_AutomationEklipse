@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Convert to TikTok  Shorts  Reels</name>
+   <tag></tag>
+   <elementGuidId>d8fd5ee2-7293-4001-b4bd-60c182779284</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.empty-state__button.ek-primary-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[27]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ce28bde9-ff2f-43ea-8aa1-f04cce21dd5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>edb4044e-db0c-4671-a797-ba72964d7cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty-state__button ek-primary-button</value>
+      <webElementGuid>c05918d5-ec68-43d9-a147-04eb458c0ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Convert to TikTok / Shorts / Reels</value>
+      <webElementGuid>d4b32aa5-b82f-4155-8ba4-afd5acf0657c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-streams&quot;]/div[3]/div[@class=&quot;ek-edited-video&quot;]/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;text-center empty-state&quot;]/button[@class=&quot;empty-state__button ek-primary-button&quot;]</value>
+      <webElementGuid>1eb8dd64-d9df-40b7-b511-5fea9895d23e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[27]</value>
+      <webElementGuid>a5b86275-1f7a-4655-b081-a70bdf3ca027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[3]/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>5588900a-f002-4489-8e2f-0276a12b3199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You don’t have any edited clip right now. To have one, try to edit one of your available clip now'])[1]/following::button[1]</value>
+      <webElementGuid>629a23a1-002a-4f2c-b9b9-bf0a2d8aa5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Edited Clip Yet'])[1]/following::button[1]</value>
+      <webElementGuid>9492ef19-e96c-45fa-905e-1d08705a7e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::button[1]</value>
+      <webElementGuid>11b6105a-6965-414b-8fde-97f1d96e691c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>aa99c66c-d7ec-4b66-9b49-92199638fa4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Convert to TikTok / Shorts / Reels' or . = 'Convert to TikTok / Shorts / Reels')]</value>
+      <webElementGuid>beab5f59-6f55-4d1e-80e4-ea2253f48974</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
